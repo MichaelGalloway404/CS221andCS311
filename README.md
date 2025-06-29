@@ -23,7 +23,9 @@ value of the house’s roll and given the option to stand or hit The house then
 hits till it is equel to 17 or higher. If either the player or the house hits  
 over 21 they bust and lose the round If Player and House tie then the win goes to the House  
 
-# Student and Professor Project: 
+# Student and Professor Fork Project:  
+>>Simulates a random conversation between a student and their professor via Fork calls.
+>>The programs out put is all on the commandline.
 
 # Lost Password and Bad Digit Project: 
 
