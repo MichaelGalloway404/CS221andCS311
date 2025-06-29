@@ -14,7 +14,14 @@ all output is sent to terminal and a file called battleResults.txt
 the game consists of a series of turns with one decision of three choices each game (attack, use ability, use potion)  
 game loops until one character is out of HP.  
 
-# Black Jack Game: 
+# Black Jack Game:  
+>>Program that simulates a simplified version of blackjack using a 14 sided  
+die. A roll selects one of 2,3,4,5,6,7,8,9,10,10,10,10,11. Jack, Queen, and  
+King are worth 10 while an Ace is 11 The player is given two rolls. The  
+house, played by the computer, is given one roll. The player is shown the  
+value of the house’s roll and given the option to stand or hit The house then  
+hits till it is equel to 17 or higher. If either the player or the house hits  
+over 21 they bust and lose the round If Player and House tie then the win goes to the House  
 
 # Student and Professor Project: 
 
