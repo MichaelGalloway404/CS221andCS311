@@ -1,0 +1,5 @@
+HeroMike 150 FireBall
+CrabMan 240 ClawPinch
+3 35
+25 41
+1 9
